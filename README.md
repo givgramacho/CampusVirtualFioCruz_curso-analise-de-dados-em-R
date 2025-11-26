@@ -8,16 +8,16 @@ Este repositório contém os materiais práticos da Aula 2 do curso de Introduç
 
 ### SCRIPTS R
 
-- `aula2_script_1.R` - Primeiro script da aula introduzindo operações básicas em R
-- `aula2_script_2.R` - Segundo script da aula introduzindo manipulação de dados em R
-- `aula2_atividades.R` - Atividades práticas para fixação do conteúdo e conceitos adicionais
+- `modulo1aula2_script_1.R` - Primeiro script da aula introduzindo operações básicas em R
+- `modulo1aula2_script_2.R` - Segundo script da aula introduzindo manipulação de dados em R
+- `modulo1aula2_atividades.R` - Atividades práticas para fixação do conteúdo e conceitos adicionais
 
 ### DOCUMENTOS
 
-- `aula2_atividades.docx` - Descrição das atividades propostas em formato Word
-- `aula2_gabarito_atividade.pdf` - Gabarito das atividades práticas
+- `modulo1aula2_atividades.pdf` - Descrição das atividades propostas 
+- `modulo1aula2_gabarito_atividade.pdf` - Gabarito das atividades práticas
 
-> **OBSERVAÇÃO:** Tente criar o seu código para encontrar as respostas da atividade, mas caso tenha dificuldades o gabarito em R (`aula2_atividades.R`) encontra-se na pasta.
+> **OBSERVAÇÃO:** Tente criar o seu código para encontrar as respostas da atividade, mas caso tenha dificuldades o gabarito em R (`modulo1aula2_atividades.R`) encontra-se na pasta.
 
 ### DADOS
 
@@ -109,6 +109,7 @@ As atividades práticas incluem exercícios de:
 
 ## 📚 RECURSOS ADICIONAIS
 
+- Pratique R respondendo as perguntas da atividade complementar opcional (`aula2_gabarito_atividade.pdf`) 
 - Consulte o gabarito (`aula2_gabarito_atividade.pdf`) para verificar suas respostas
 - O dicionário de dados explica cada variável do dataset SIM
 
