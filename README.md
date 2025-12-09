@@ -283,6 +283,3 @@ Este material foi desenvolvido para o curso **"Introdução à Análise de Dados
 
 
 ---
-
-*Desenvolvido com ❤️ para a comunidade de saúde pública brasileira*
-
